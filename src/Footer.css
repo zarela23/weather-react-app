@@ -1,0 +1,10 @@
+footer {
+  font-size: 10px;
+  color: black;
+  opacity: 0.8px;
+  text-align: center;
+}
+
+footer a {
+  text-decoration: none;
+}
